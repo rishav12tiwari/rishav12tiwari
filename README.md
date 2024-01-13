@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rishav12tiwari
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning reactjs
+- 🌱 I’m currently learning js
 - 💞️ I’m looking to collaborate on frontend projects and UI/UX
 - 📫 How to reach me tiwaririshav38@gmail.com
 
